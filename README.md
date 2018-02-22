@@ -1,0 +1,3 @@
+# Image_Detection_By_Color
+
+This is a program I made during a course I tooke during summer vacation on COURSERS about Object Detection in images...
